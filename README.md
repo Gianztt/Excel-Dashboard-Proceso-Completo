@@ -1,6 +1,6 @@
 # 📊 Dashboard Comercial en Excel con dataset Superstore
 
-<img width="1865" height="680" alt="image" src="https://github.com/user-attachments/assets/ecff69b7-e12f-4d98-8ac7-d0ec16b0cf58" />
+<img width="1864" height="724" alt="image" src="https://github.com/user-attachments/assets/f13d9912-a7e3-4279-9ed4-b662c8adb189" />
 
 Este proyecto simula un entorno de análisis empresarial utilizando Excel como herramienta de Business Intelligence (BI). El objetivo fue generar un dashboard dinámico para visualizar y analizar indicadores clave de rendimiento (KPIs) relacionados con ventas, márgenes y comportamiento de clientes.
 
